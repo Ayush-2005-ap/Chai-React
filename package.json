@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Ayush-2005-ap/Chai-React/issues"
   },
-  "homepage": "https://github.com/Ayush-2005-ap/Chai-React#readme"
+  "homepage": "https://github.com/Ayush-2005-ap/Chai-React#readme",
+  "dependencies": {
+    "react-router-dom": "^7.6.3"
+  }
 }
